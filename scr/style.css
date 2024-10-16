@@ -7,3 +7,9 @@ border-color: red;
 border-width: 1px;
 width: 259px;
 }
+
+
+input[type="text"]{
+width: 200px;
+height: 25px;
+}
