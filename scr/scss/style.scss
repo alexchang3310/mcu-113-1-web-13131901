@@ -3,7 +3,7 @@
 @import "./home";
 @import "./about";
 @import "./skill";
-
+@import "./contact";
 :root {
   --body-color: rgb(250, 250, 250);
   --logo-color: rgb(218, 70, 102);
@@ -43,7 +43,6 @@ body {
     display: flex;
     padding-block: 6em;
     height: 100vh;
-    min-height: 700px;
   }
 
   .section {
